@@ -1,0 +1,49 @@
+[11:45:14] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[11:46:37] [Server thread/INFO]: Loading properties
+[11:46:37] [Server thread/INFO]: Default game type: SURVIVAL
+[11:46:37] [Server thread/INFO]: Generating keypair
+[11:46:37] [Server thread/INFO]: Starting Minecraft server on *:25565
+[11:47:08] [Server thread/INFO]: Preparing level "world"
+[11:47:10] [Server thread/INFO]: Preparing start region for level 0
+[11:47:11] [Server thread/INFO]: Preparing spawn area: 37%
+[11:47:12] [Server thread/INFO]: Done (4.430s)! For help, type "help" or "?"
+[11:47:28] [User Authenticator #1/INFO]: UUID of player megaboy1O1 is 3d3f7bd6-bf2c-404b-b1d3-bfae87b9ad9f
+[11:47:30] [Server thread/INFO]: megaboy1O1[/216.239.177.138:51879] logged in with entity id 231 at (-536.3000000119209, 89.0, 1987.300000011921)
+[11:47:31] [Server thread/INFO]: megaboy1O1 joined the game
+[11:50:25] [User Authenticator #2/INFO]: UUID of player Eguy4545 is 45a5d795-8405-4ed2-935c-125a31be0c5e
+[11:50:25] [Server thread/INFO]: Eguy4545[/192.168.0.19:2363] logged in with entity id 2326 at (-779.5353072337737, 71.0, 1924.300000011921)
+[11:50:25] [Server thread/INFO]: Eguy4545 joined the game
+[11:51:41] [Server thread/INFO]: megaboy1O1 has just earned the achievement [Cow Tipper]
+[12:37:23] [Server thread/INFO]: Eguy4545 has just earned the achievement [Sky of Beginning]
+[12:50:38] [Server thread/INFO]: megaboy1O1 has just earned the achievement [Sky of Beginning]
+[13:10:36] [Server thread/INFO]: megaboy1O1 has just earned the achievement [A Realistical Logical Ideologist]
+[13:47:08] [Server thread/INFO]: Server Backup started!
+[13:47:08] [Server thread/INFO]: Turned off world auto-saving
+[13:47:08] [Server thread/INFO]: Saving...
+[13:47:08] [Server thread/INFO]: Saved the world
+[13:47:12] [Thread-159/INFO]: Server backup done in 00:00:04! (48.4MB | 142.4MB)
+[13:47:12] [Server thread/INFO]: Turned on world auto-saving
+[13:51:51] [Server thread/INFO]: megaboy1O1 was slain by Enderminy
+[13:52:03] [Server thread/INFO]: Eguy4545 has just earned the achievement [Small Step of the Journey]
+[13:55:46] [Server thread/INFO]: Eguy4545 was shot by Skeleton
+[14:45:47] [Server thread/INFO]: Eguy4545 has just earned the achievement [One Way Ticket]
+[14:59:16] [Server thread/INFO]: megaboy1O1 has just earned the achievement [Call Me Quinn]
+[15:07:55] [Server thread/INFO]: megaboy1O1 tried to swim in lava
+[15:33:27] [Server thread/INFO]: Eguy4545 burned to death
+[15:47:08] [Server thread/INFO]: Server Backup started!
+[15:47:08] [Server thread/INFO]: Turned off world auto-saving
+[15:47:08] [Server thread/INFO]: Saving...
+[15:47:08] [Server thread/INFO]: Saved the world
+[15:47:12] [Thread-183/INFO]: Server backup done in 00:00:03! (58.9MB | 201.3MB)
+[15:47:12] [Server thread/INFO]: Turned on world auto-saving
+[15:57:25] [Server thread/INFO]: <Eguy4545> hi jacob
+[15:57:51] [Server thread/INFO]: <megaboy1O1> What do you call a dog on the sun?
+[15:58:02] [Server thread/INFO]: <megaboy1O1> A tragedy
+[16:00:05] [Server thread/INFO]: Eguy4545 has just earned the achievement [Learning to Tinker]
+[16:01:43] [Server thread/INFO]: Eguy4545 has just earned the achievement [Stencil Worker]
+[16:05:37] [Server thread/INFO]: megaboy1O1 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[16:05:37] [Server thread/INFO]: megaboy1O1 left the game
+[16:08:56] [Server thread/INFO]: Eguy4545 has just earned the achievement [Smeltery Creator]
+[16:16:58] [Server thread/INFO]: Eguy4545 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[16:16:58] [Server thread/INFO]: Eguy4545 left the game
+[16:17:27] [Server Shutdown Thread/INFO]: Stopping server

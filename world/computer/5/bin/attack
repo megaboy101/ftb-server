@@ -1,0 +1,30 @@
+
+function turnAround() 
+  turtle.turnLeft()
+  turtle.turnLeft()
+end
+
+
+function patrolForward(num)
+  for i=0, num, 1 do
+    turtle.forward()
+    turtle.attack()
+  end
+end
+
+
+while( turtle.getItemCount(1) ~= 0 ) do
+  if turtle.getFuelLevel() == 0 then
+    turtle.refuel()
+  end
+  
+  patrolForward(5)
+  turnAround()
+  patrolForward(5)
+  turnAround()  
+  
+end
+
+
+
+
